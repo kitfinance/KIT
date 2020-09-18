@@ -7,18 +7,18 @@ Rather than allocating a portion of the supply to the founding team, HOT is bein
 
 **Token Symbol**: KIT(HelloKitty)
 
-**Token Contract**: 
+**Token Contract**: TAGKDYfoqaBc5QxsPp9MhntRbJSvqXZJJr
 
 **Total Supply**: 10,000 KIT
 
-**Twitter link**:https://twitter.com/
+**Twitter link**:https://twitter.com/kitdotfinance
 
-**Telegram link**:https://t.me/
+**Telegram link**:https://t.me/hellokittydotfinance
 
 ## Pool 
 **Stable Farms**: 5,000 KIT (Week 1)
 
-USDT: 40%   
+USDT: 40%
 Token address:\
 Pool address:\
 
