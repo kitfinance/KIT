@@ -38,9 +38,9 @@ contract TokenTRC20 {
      */
     constructor() public {
         owner = msg.sender;
-        totalSupply = 10 * 10**uint256(decimals); // Update total supply with the decimal amount
+        totalSupply = 1 * 10**uint256(decimals); // Update total supply with the decimal amount
         balanceOf[msg.sender] = totalSupply; // Give the creator all initial tokens
-        name = "KIT FINANCE"; // Set the name for display purposes
+        name = "Hello Kitty"; // Set the name for display purposes
         symbol = "KIT"; // Set the symbol for display purposes
     }
 
